@@ -140,16 +140,12 @@
     {
       "name": "Aviation",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "FAA Private Pilot"
-      ]
+      "keywords": ["FAA Private Pilot"]
     },
     {
       "name": "Tennis",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "International Tennis Federation (ITF) Class I Tennis Coach"
-      ]
+      "keywords": ["International Tennis Federation (ITF) Class I Tennis Coach"]
     }
   ],
   "references": [

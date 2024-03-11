@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I am Chunchi (Peter) Liu, currently a Network Security Researcher at Huawei Research. 
+Hello, I am Chunchi (Peter) Liu, currently a Network Security Researcher at Huawei Research.
 
 I am a CS major PhD from George Washington University, class of 2020. Check out my CV or links below for more information!
 
