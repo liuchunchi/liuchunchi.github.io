@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3928c06-94da-49df-82ab-d37020027994" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/liuchunchi.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/liuchunchi.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/repositories.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/repositories.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/prof_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/blog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/dropdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/dropdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/profiles.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/profiles.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/repositories.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/repositories.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-01-27-code-diff.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-27-code-diff.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/chunchi.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/chunchi.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/distillpub/template.v2.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/distillpub/template.v2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/resume.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/resume.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,24 +45,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pl&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/pl/liuchunchi.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3928c06-94da-49df-82ab-d37020027994" name="Changes" comment="" />
+      <created>1710159281163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710159281163</updated>
+      <workItem from="1710159283318" duration="6991000" />
+    </task>
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>

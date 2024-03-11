@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chunchi Liu",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "liuchunchi@gwu.edu",
+    "phone": "+1 202-922-2717",
+    "url": "https://liuchunchi.github.io/",
+    "summary": "Applied Cryptography, Network Security, Blockchain, IoT",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,90 +24,66 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Huawei Technologies",
+      "position": "Network Security Researcher",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Directing Huawei IP security innovation and standardization, alignment with go-to-market strategy.",
+      "highlights": ["Huawei Top-Minds \"Genius\" Award Winner"]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
+      "name": "APAC Innovation Lab, Ernst and Young",
+      "position": "Lead Scientist",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Leading Blockchain Research and Development in EY Greater China Region",
+      "highlights": ["APAC/GC Leadership, global executive"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "The George Washington University, Washington D.C., USA",
+      "location": "Washington, USA",
+      "url": "https://www.gwu.edu/",
+      "area": "Conducted pioneering research on blockchain technology and its trusted applications to real-world scenarios.",
+      "studyType": "PhD, Computer Science",
+      "startDate": "2017",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Beijing Normal University, Beijing, China",
+      "location": "Beijing, China",
+      "url": "https://www.bnu.edu.cn/",
+      "area": "Conducted innovative research on mobile social networks, location-based services, crowdsourcing and game theory.",
+      "studyType": "BSc, Computer Science",
+      "startDate": "2013",
+      "endDate": "2017"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "Huawei Top-Minds \"Genius\" Award",
+      "date": "2023",
+      "awarder": "Huawei Technologies",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Huawei Top-Minds Genius Award is granted to young research leaders that have made extraordinary contributions to their respective field, and is expected to continuously make ground-breaking contributions and play a leadership role to Huawei company."
+    },
+    {
+      "title": "Graduated with Distinction",
+      "date": "2017",
+      "awarder": "Beijing Normal University"
     }
   ],
-  "certificates": [
+  "volunteer": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "organization": "Ernst and Young Greater China",
+      "position": "EY Ripples Ambassador",
       "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "EY Ripples science advocacy workshop for local teenage students :)"
     }
   ],
   "publications": [
@@ -150,27 +126,29 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Business Fluency",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Aviation",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "FAA Private Pilot"
+      ]
+    },
+    {
+      "name": "Tennis",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "International Tennis Federation (ITF) Class I Tennis Coach"
       ]
     }
   ],
