@@ -20,9 +20,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I am Chunchi (Peter) Liu, currently a Network Security Researcher at Huawei Research.
+Hello, I am Chunchi (Peter) Liu, I lead network security innovation and standardization at Huawei Data Communications Product Line. I am a CS major PhD from George Washington University, class of 2020. Check out my [CV page](/cv/) or links below for more information :)
 
-I am a CS major PhD from George Washington University, class of 2020. Check out my [CV page](/cv/) or links below for more information :)
+Hiring! Fresh graduates and PhDs major in network security / cybersecurity / cryptography / computer science or other security related areas, please send resumes to liuchunchi [at] huawei.com. Base: Nanjing/Shanghai.
 
 > _Be the change you want to see in the world_
 
